@@ -1,0 +1,2 @@
+# portfolio
+Hi, I'm Dixith! I have a technical background and hold a Master of Science (M.S.) degree in Computer Science (Bauhaus University Weimar, Germany), majoring in Statistics, Computer Vision, Machine Learning, and Algorithms Optimization. I have experience of 2 years of working in various Data Analyst roles. Since Nov 2021, I have been working as a Data Analyst for a Fintech company. This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
