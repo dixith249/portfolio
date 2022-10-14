@@ -1,2 +1,14 @@
-# portfolio
-Hi, I'm Dixith! I have a technical background and hold a Master of Science (M.S.) degree in Computer Science (Bauhaus University Weimar, Germany), majoring in Statistics, Computer Vision, Machine Learning, and Algorithms Optimization. I have experience of 2 years of working in various Data Analyst roles. Since Nov 2021, I have been working as a Data Analyst for a Fintech company. This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+# Dixith Pinjari - Data Analysis Portfolio 
+
+## About
+
+Hi, I'm Dixith! I have a technical background and hold a Master of Science (M.S.) degree in Computer Science (Bauhaus University Wemar, Germany).    
+<br>
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
+<br>
+  
+
+## Table of contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+	+ [Video Games Sales Analysis](#video-games-sales-analysis)
