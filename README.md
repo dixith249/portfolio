@@ -35,3 +35,4 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Python Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-d283a5a5-a27e-4168-863b-9238bc653e1b.jpg)
 
 - [Python Bootcamp For Data Science & Machine Learning](https://www.udemy.com/certificate/UC-e1e07d56-9788-46c3-bf0e-85ca68343a62/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+- [Hands On Python and Coding For Machine Learning Course](https://www.udemy.com/certificate/UC-95907647-8993-4948-bbdf-aa22e04bfc74/)
