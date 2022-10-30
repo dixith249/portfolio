@@ -12,3 +12,4 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Video Games Sales Analysis](#video_games_sales)
+- [Certificates](#certificates)
