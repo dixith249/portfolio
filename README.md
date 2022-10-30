@@ -29,9 +29,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-SQL Advanced Ceritificate Hackerrank (https://www.hackerrank.com/certificates/7ab1fba91e86) It covers topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.
-
-SQL Intermediate Certificate Hackerrank (https://www.hackerrank.com/certificates/d51a921550b9) It includes complex joins, unions, and sub-queries.
-SQL Basic Certificate Hackerrank (https://www.hackerrank.com/certificates/70b43f5a1837) It includes simple queries, relationships, and aggregators.
+[SQL Advanced Ceritificate Hackerrank] (https://www.hackerrank.com/certificates/7ab1fba91e86) It covers topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.
+[SQL Intermediate Certificate Hackerrank] (https://www.hackerrank.com/certificates/d51a921550b9) It includes complex joins, unions, and sub-queries.
+[SQL Basic Certificate Hackerrank] (https://www.hackerrank.com/certificates/70b43f5a1837) It includes simple queries, relationships, and aggregators.
 
 
