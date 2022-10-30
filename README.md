@@ -32,4 +32,6 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [SQL Advanced Ceritificate Hackerrank](https://www.hackerrank.com/certificates/7ab1fba91e86) It covers topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.
 - [SQL Intermediate Certificate Hackerrank](https://www.hackerrank.com/certificates/d51a921550b9) It includes complex joins, unions, and sub-queries.
 - [SQL Basic Certificate Hackerrank](https://www.hackerrank.com/certificates/70b43f5a1837) It includes simple queries, relationships, and aggregators.
-- [Python Udemy](https://www.udemy.com/certificate/UC-e1e07d56-9788-46c3-bf0e-85ca68343a62/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+- [Python Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-d283a5a5-a27e-4168-863b-9238bc653e1b.jpg)
+
+- [Python Bootcamp For Data Science & Machine Learning](https://www.udemy.com/certificate/UC-e1e07d56-9788-46c3-bf0e-85ca68343a62/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
