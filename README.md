@@ -11,4 +11,4 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales)
+	+ [Video Games Sales Analysis](#video_games_sales)
