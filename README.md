@@ -13,3 +13,25 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [Video Games Sales Analysis](#video_games_sales)
 - [Certificates](#certificates)
+
+
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Video Games Sales Analysis
+**Code:** [`video_games_sales.ipynb`](https://github.com/dixith249/portfolio/blob/main/video_games_sales.ipynb)    
+**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
+**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+
+## Certificates
+
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+SQL Advanced Ceritificate Hackerrank (https://www.hackerrank.com/certificates/7ab1fba91e86) It covers topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.
+
+SQL Intermediate Certificate Hackerrank (https://www.hackerrank.com/certificates/d51a921550b9) It includes complex joins, unions, and sub-queries.
+SQL Basic Certificate Hackerrank (https://www.hackerrank.com/certificates/70b43f5a1837) It includes simple queries, relationships, and aggregators.
+
+
